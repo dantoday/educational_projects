@@ -4,6 +4,6 @@ During my time at Yandex.Practicum, I've had the privilege to work on a variety 
 
 | Project           | Tech Stack                             |
 |-------------------|----------------------------------------|
-| Project 1         | Python, Pandas, NumPy, Matplotlib       |
+| [Прогнозирование оттока клиентов из банка](bank_clients_departure)        | Python, Pandas, Scikit-learn       |
 | Project 2         | Python, Scikit-Learn, XGBoost          |
 | Project 3         | Python, SQL, PostgreSQL                |
