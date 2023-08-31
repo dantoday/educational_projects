@@ -10,5 +10,5 @@ During my time at Yandex.Practicum, I've had the privilege to work on a variety 
 | Project           | Tech Stack                             |
 |-------------------|----------------------------------------|
 | [Прогнозирование оттока клиентов из банка](bank_clients_departure)        | Python, Pandas, Scikit-learn       |
-| Project 2         | Python, Scikit-Learn, XGBoost          |
+| [Исследование технологического процесса очистки золота ](gold_recovery)        | Python, Pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных         |
 | Project 3         | Python, SQL, PostgreSQL                |
